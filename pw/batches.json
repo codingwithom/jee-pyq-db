@@ -1,0 +1,872 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-16T00:00:00Z",
+  "batches": [
+    {
+      "id": "arjuna-jee-2026",
+      "name": "Arjuna JEE 2026",
+      "target": "Class 11 (JEE Main & Advanced 2027)",
+      "description": "Foundational deep-dive for Class 11 students with complete theory, illustrations, and DPPs.",
+      "subjects": [
+        {
+          "name": "Physics",
+          "faculty": "Rajwant Sir & Saleem Sir",
+          "chapters": [
+            {
+              "id": "arj-phy-1",
+              "title": "Units, Dimensions and Measurements",
+              "lectures": [
+                {
+                  "id": "arj-phy-1-1",
+                  "title": "Lec 01: Physical Quantities, Fundamental & Derived Units",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-phy-1-2",
+                  "title": "Lec 02: Dimensional Formulae & Principle of Homogeneity",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-phy-1-3",
+                  "title": "Lec 03: Applications of Dimensional Analysis & Limitations",
+                  "type": "lecture",
+                  "duration": "1h 40m"
+                },
+                {
+                  "id": "arj-phy-1-4",
+                  "title": "Lec 04: Errors in Measurement, Vernier Calliper & Screw Gauge",
+                  "type": "lecture",
+                  "duration": "2h 00m"
+                },
+                {
+                  "id": "arj-phy-1-dpp1",
+                  "title": "DPP 01: Units & Dimensions (20 Questions)",
+                  "type": "dpp",
+                  "duration": "45m"
+                },
+                {
+                  "id": "arj-phy-1-dpp2",
+                  "title": "DPP 02: Errors & Instruments Analysis (25 Questions)",
+                  "type": "dpp",
+                  "duration": "50m"
+                }
+              ]
+            },
+            {
+              "id": "arj-phy-2",
+              "title": "Mathematical Tools & Vectors",
+              "lectures": [
+                {
+                  "id": "arj-phy-2-1",
+                  "title": "Lec 01: Coordinate Systems, Trigonometry & Graphs",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-phy-2-2",
+                  "title": "Lec 02: Differentiation Basics & Maxima/Minima",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "arj-phy-2-3",
+                  "title": "Lec 03: Integration Fundamentals & Definite Integrals in Physics",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-phy-2-4",
+                  "title": "Lec 04: Vector Addition, Triangle Law & Parallelogram Law",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-phy-2-5",
+                  "title": "Lec 05: Resolution of Vectors & Unit Vectors in 2D/3D",
+                  "type": "lecture",
+                  "duration": "1h 40m"
+                },
+                {
+                  "id": "arj-phy-2-6",
+                  "title": "Lec 06: Dot Product, Cross Product & Applications",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "arj-phy-2-dpp1",
+                  "title": "DPP 01: Basic Calculus in Physics",
+                  "type": "dpp",
+                  "duration": "40m"
+                },
+                {
+                  "id": "arj-phy-2-dpp2",
+                  "title": "DPP 02: Vector Algebra & Products",
+                  "type": "dpp",
+                  "duration": "45m"
+                }
+              ]
+            },
+            {
+              "id": "arj-phy-3",
+              "title": "Motion in a Straight Line (Kinematics 1D)",
+              "lectures": [
+                {
+                  "id": "arj-phy-3-1",
+                  "title": "Lec 01: Distance, Displacement, Average Speed & Velocity",
+                  "type": "lecture",
+                  "duration": "1h 40m"
+                },
+                {
+                  "id": "arj-phy-3-2",
+                  "title": "Lec 02: Instantaneous Velocity, Acceleration & Calculus Problems",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-phy-3-3",
+                  "title": "Lec 03: Equations of Motion for Uniform Acceleration",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-phy-3-4",
+                  "title": "Lec 04: Motion Under Gravity & Stopping Distance",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-phy-3-5",
+                  "title": "Lec 05: Motion Graphs (s-t, v-t, a-t Transformation)",
+                  "type": "lecture",
+                  "duration": "2h 05m"
+                },
+                {
+                  "id": "arj-phy-3-dpp1",
+                  "title": "DPP 01: Uniform & Non-Uniform 1D Motion",
+                  "type": "dpp",
+                  "duration": "50m"
+                }
+              ]
+            },
+            {
+              "id": "arj-phy-4",
+              "title": "Motion in a Plane (Kinematics 2D & Projectile)",
+              "lectures": [
+                {
+                  "id": "arj-phy-4-1",
+                  "title": "Lec 01: 2D Kinematics Equations & Position Vectors",
+                  "type": "lecture",
+                  "duration": "1h 40m"
+                },
+                {
+                  "id": "arj-phy-4-2",
+                  "title": "Lec 02: Ground to Ground Projectile Motion & Formulae",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-phy-4-3",
+                  "title": "Lec 03: Equation of Trajectory & Radius of Curvature",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "arj-phy-4-4",
+                  "title": "Lec 04: Horizontal Projectile & Projection from a Tower",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-phy-4-5",
+                  "title": "Lec 05: Projectile on an Inclined Plane",
+                  "type": "lecture",
+                  "duration": "2h 00m"
+                },
+                {
+                  "id": "arj-phy-4-6",
+                  "title": "Lec 06: Relative Motion in 1D & River-Boat Problems",
+                  "type": "lecture",
+                  "duration": "2h 10m"
+                },
+                {
+                  "id": "arj-phy-4-7",
+                  "title": "Lec 07: Rain-Man Problems & Aircraft Wind Problems",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-phy-4-dpp1",
+                  "title": "DPP 01: Projectile Motion Problems",
+                  "type": "dpp",
+                  "duration": "45m"
+                },
+                {
+                  "id": "arj-phy-4-dpp2",
+                  "title": "DPP 02: Relative Motion in 2D",
+                  "type": "dpp",
+                  "duration": "50m"
+                }
+              ]
+            },
+            {
+              "id": "arj-phy-5",
+              "title": "Newton's Laws of Motion (NLM) & Friction",
+              "lectures": [
+                {
+                  "id": "arj-phy-5-1",
+                  "title": "Lec 01: Inertia, Momentum & Newton's Second Law",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-phy-5-2",
+                  "title": "Lec 02: Free Body Diagrams (FBD) & Normal Reaction",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-phy-5-3",
+                  "title": "Lec 03: Tension in Strings & Smooth Pulley Systems",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "arj-phy-5-4",
+                  "title": "Lec 04: Constrained Motion (String & Wedge Constraints)",
+                  "type": "lecture",
+                  "duration": "2h 05m"
+                },
+                {
+                  "id": "arj-phy-5-5",
+                  "title": "Lec 05: Pseudo Force & Non-Inertial Reference Frames",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-phy-5-6",
+                  "title": "Lec 06: Friction Fundamentals, Static vs Kinetic Friction",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "arj-phy-5-7",
+                  "title": "Lec 07: Two-Block Problems & Critical Acceleration",
+                  "type": "lecture",
+                  "duration": "2h 15m"
+                },
+                {
+                  "id": "arj-phy-5-dpp1",
+                  "title": "DPP 01: Pulley & Constraint Problems",
+                  "type": "dpp",
+                  "duration": "50m"
+                },
+                {
+                  "id": "arj-phy-5-dpp2",
+                  "title": "DPP 02: Friction & Multi-Block Systems",
+                  "type": "dpp",
+                  "duration": "55m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "faculty": "Amit Mahajan Sir & Pankaj Sir",
+          "chapters": [
+            {
+              "id": "arj-chem-1",
+              "title": "Some Basic Concepts of Chemistry (Mole Concept)",
+              "lectures": [
+                {
+                  "id": "arj-chem-1-1",
+                  "title": "Lec 01: Introduction, Matter Classification & Laws of Chemical Combination",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-chem-1-2",
+                  "title": "Lec 02: Mole Definition, Atomic & Molecular Masses, Avogadro Number",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-chem-1-3",
+                  "title": "Lec 03: Percentage Composition, Empirical & Molecular Formula",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-chem-1-4",
+                  "title": "Lec 04: Stoichiometry & Limiting Reagent Concept",
+                  "type": "lecture",
+                  "duration": "2h 00m"
+                },
+                {
+                  "id": "arj-chem-1-5",
+                  "title": "Lec 05: Concentration Terms (Molarity, Molality, Mole Fraction, ppm)",
+                  "type": "lecture",
+                  "duration": "2h 10m"
+                },
+                {
+                  "id": "arj-chem-1-dpp1",
+                  "title": "DPP 01: Mole Concept & Limiting Reagent",
+                  "type": "dpp",
+                  "duration": "45m"
+                },
+                {
+                  "id": "arj-chem-1-dpp2",
+                  "title": "DPP 02: Concentration Terms & Mixing Problems",
+                  "type": "dpp",
+                  "duration": "50m"
+                }
+              ]
+            },
+            {
+              "id": "arj-chem-2",
+              "title": "Structure of Atom",
+              "lectures": [
+                {
+                  "id": "arj-chem-2-1",
+                  "title": "Lec 01: Subatomic Particles & Rutherford Nuclear Model",
+                  "type": "lecture",
+                  "duration": "1h 40m"
+                },
+                {
+                  "id": "arj-chem-2-2",
+                  "title": "Lec 02: Electromagnetic Radiations & Planck's Quantum Theory",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-chem-2-3",
+                  "title": "Lec 03: Photoelectric Effect & Dual Nature of Light",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-chem-2-4",
+                  "title": "Lec 04: Bohr's Model of Hydrogen Atom & Line Spectrum",
+                  "type": "lecture",
+                  "duration": "2h 00m"
+                },
+                {
+                  "id": "arj-chem-2-5",
+                  "title": "Lec 05: De Broglie Hypothesis & Heisenberg Uncertainty Principle",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-chem-2-6",
+                  "title": "Lec 06: Quantum Numbers (n, l, m, s) & Orbitals Shapes",
+                  "type": "lecture",
+                  "duration": "2h 05m"
+                },
+                {
+                  "id": "arj-chem-2-7",
+                  "title": "Lec 07: Aufbau Principle, Pauli Exclusion & Hund's Rule",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-chem-2-dpp1",
+                  "title": "DPP 01: Quantum Theory & Bohr Model",
+                  "type": "dpp",
+                  "duration": "45m"
+                },
+                {
+                  "id": "arj-chem-2-dpp2",
+                  "title": "DPP 02: Quantum Numbers & Electronic Configuration",
+                  "type": "dpp",
+                  "duration": "45m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "faculty": "Sachin Sir & Ashish Agarwal Sir",
+          "chapters": [
+            {
+              "id": "arj-math-1",
+              "title": "Sets, Relations & Functions",
+              "lectures": [
+                {
+                  "id": "arj-math-1-1",
+                  "title": "Lec 01: Set Representation, Subsets & Power Set",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-math-1-2",
+                  "title": "Lec 02: Set Operations, Venn Diagrams & Cardinality Problems",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-math-1-3",
+                  "title": "Lec 03: Cartesian Product & Relations (Reflexive, Symmetric, Transitive)",
+                  "type": "lecture",
+                  "duration": "2h 00m"
+                },
+                {
+                  "id": "arj-math-1-4",
+                  "title": "Lec 04: Functions Definition, Domain & Range",
+                  "type": "lecture",
+                  "duration": "2h 10m"
+                },
+                {
+                  "id": "arj-math-1-5",
+                  "title": "Lec 05: Classification of Functions (One-One, Onto, Bijective)",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "arj-math-1-dpp1",
+                  "title": "DPP 01: Equivalence Relations & Cardinality",
+                  "type": "dpp",
+                  "duration": "45m"
+                },
+                {
+                  "id": "arj-math-1-dpp2",
+                  "title": "DPP 02: Domain & Range Calculation",
+                  "type": "dpp",
+                  "duration": "50m"
+                }
+              ]
+            },
+            {
+              "id": "arj-math-2",
+              "title": "Trigonometric Functions & Identities",
+              "lectures": [
+                {
+                  "id": "arj-math-2-1",
+                  "title": "Lec 01: Angle Measurement (Degrees & Radians), Unit Circle",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "arj-math-2-2",
+                  "title": "Lec 02: Compound Angle Formulae (sin(A\u00b1B), cos(A\u00b1B))",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "arj-math-2-3",
+                  "title": "Lec 03: Transformation Formulae (Product into Sum & Vice Versa)",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "arj-math-2-4",
+                  "title": "Lec 04: Multiple & Submultiple Angles (2A, 3A, A/2)",
+                  "type": "lecture",
+                  "duration": "2h 00m"
+                },
+                {
+                  "id": "arj-math-2-5",
+                  "title": "Lec 05: Trigonometric Equations & General Solutions",
+                  "type": "lecture",
+                  "duration": "2h 10m"
+                },
+                {
+                  "id": "arj-math-2-dpp1",
+                  "title": "DPP 01: Trigonometric Identities & Simplification",
+                  "type": "dpp",
+                  "duration": "45m"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lakshya-jee-2026",
+      "name": "Lakshya JEE 2026",
+      "target": "Class 12 (JEE Main & Advanced 2026)",
+      "description": "Comprehensive Class 12 syllabus coverage with advanced level question practice & board sync.",
+      "subjects": [
+        {
+          "name": "Physics",
+          "faculty": "Saleem Sir & Rajwant Sir",
+          "chapters": [
+            {
+              "id": "lak-phy-1",
+              "title": "Electrostatics & Electric Field",
+              "lectures": [
+                {
+                  "id": "lak-phy-1-1",
+                  "title": "Lec 01: Electric Charges & Coulomb's Law in Vector Form",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "lak-phy-1-2",
+                  "title": "Lec 02: Electric Field & Principle of Superposition",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "lak-phy-1-3",
+                  "title": "Lec 03: Electric Dipole, Torque & Potential Energy",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "lak-phy-1-4",
+                  "title": "Lec 04: Gauss's Law & Electric Flux Calculations",
+                  "type": "lecture",
+                  "duration": "2h 10m"
+                },
+                {
+                  "id": "lak-phy-1-5",
+                  "title": "Lec 05: Applications of Gauss's Law (Symmetric Charge Distributions)",
+                  "type": "lecture",
+                  "duration": "2h 00m"
+                },
+                {
+                  "id": "lak-phy-1-dpp1",
+                  "title": "DPP 01: Coulomb's Law & Superposition",
+                  "type": "dpp",
+                  "duration": "50m"
+                },
+                {
+                  "id": "lak-phy-1-dpp2",
+                  "title": "DPP 02: Gauss's Law & Flux Applications",
+                  "type": "dpp",
+                  "duration": "50m"
+                }
+              ]
+            },
+            {
+              "id": "lak-phy-2",
+              "title": "Current Electricity",
+              "lectures": [
+                {
+                  "id": "lak-phy-2-1",
+                  "title": "Lec 01: Drift Velocity, Mobility & Ohm's Law Derivation",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "lak-phy-2-2",
+                  "title": "Lec 02: Resistance Combinations & Color Coding",
+                  "type": "lecture",
+                  "duration": "1h 40m"
+                },
+                {
+                  "id": "lak-phy-2-3",
+                  "title": "Lec 03: Kirchhoff's Current & Voltage Laws (KCL & KVL)",
+                  "type": "lecture",
+                  "duration": "2h 05m"
+                },
+                {
+                  "id": "lak-phy-2-4",
+                  "title": "Lec 04: Nodal Analysis & Symmetry in Resistor Circuits",
+                  "type": "lecture",
+                  "duration": "2h 15m"
+                },
+                {
+                  "id": "lak-phy-2-5",
+                  "title": "Lec 05: Potentiometer, Meter Bridge & Galvanometer Conversion",
+                  "type": "lecture",
+                  "duration": "2h 00m"
+                },
+                {
+                  "id": "lak-phy-2-dpp1",
+                  "title": "DPP 01: Kirchhoff's Laws & Complex Circuits",
+                  "type": "dpp",
+                  "duration": "50m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "faculty": "Pankaj Sir & Faisal Sir",
+          "chapters": [
+            {
+              "id": "lak-chem-1",
+              "title": "Solutions & Colligative Properties",
+              "lectures": [
+                {
+                  "id": "lak-chem-1-1",
+                  "title": "Lec 01: Types of Solutions & Henry's Law Applications",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "lak-chem-1-2",
+                  "title": "Lec 02: Raoult's Law for Volatile & Non-Volatile Solutes",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "lak-chem-1-3",
+                  "title": "Lec 03: Ideal & Non-Ideal Solutions, Azeotropes",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "lak-chem-1-4",
+                  "title": "Lec 04: Colligative Properties (RLVP, Elevation in BP, Depression in FP)",
+                  "type": "lecture",
+                  "duration": "2h 15m"
+                },
+                {
+                  "id": "lak-chem-1-5",
+                  "title": "Lec 05: Osmotic Pressure & Van't Hoff Factor (i)",
+                  "type": "lecture",
+                  "duration": "2h 00m"
+                },
+                {
+                  "id": "lak-chem-1-dpp1",
+                  "title": "DPP 01: Raoult's Law & Colligative Properties",
+                  "type": "dpp",
+                  "duration": "45m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "faculty": "Sachin Sir & Ashish Sir",
+          "chapters": [
+            {
+              "id": "lak-math-1",
+              "title": "Continuity, Differentiability & Limits",
+              "lectures": [
+                {
+                  "id": "lak-math-1-1",
+                  "title": "Lec 01: Limits Recap, L'Hopital's Rule & Expansions",
+                  "type": "lecture",
+                  "duration": "1h 50m"
+                },
+                {
+                  "id": "lak-math-1-2",
+                  "title": "Lec 02: Continuity at a Point & in an Interval",
+                  "type": "lecture",
+                  "duration": "1h 55m"
+                },
+                {
+                  "id": "lak-math-1-3",
+                  "title": "Lec 03: Intermediate Value Theorem & Types of Discontinuity",
+                  "type": "lecture",
+                  "duration": "1h 45m"
+                },
+                {
+                  "id": "lak-math-1-4",
+                  "title": "Lec 04: Differentiability & Geometrical Significance",
+                  "type": "lecture",
+                  "duration": "2h 05m"
+                },
+                {
+                  "id": "lak-math-1-dpp1",
+                  "title": "DPP 01: Continuity & Differentiability",
+                  "type": "dpp",
+                  "duration": "50m"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prayas-jee-2026",
+      "name": "Prayas JEE 2026 (Droppers)",
+      "target": "Droppers / Repeaters (JEE Main & Advanced 2026)",
+      "description": "Intensive complete 11th + 12th syllabus coverage with focus on high-yield questions & speed.",
+      "subjects": [
+        {
+          "name": "Physics",
+          "faculty": "Rajwant Sir & Saleem Sir",
+          "chapters": [
+            {
+              "id": "pra-phy-1",
+              "title": "Mechanics Comprehensive Capsule",
+              "lectures": [
+                {
+                  "id": "pra-phy-1-1",
+                  "title": "Lec 01: Kinematics 1D & 2D Rapid Problem Solving",
+                  "type": "lecture",
+                  "duration": "2h 15m"
+                },
+                {
+                  "id": "pra-phy-1-2",
+                  "title": "Lec 02: Newton's Laws & Friction Multi-Block Mastery",
+                  "type": "lecture",
+                  "duration": "2h 20m"
+                },
+                {
+                  "id": "pra-phy-1-3",
+                  "title": "Lec 03: Work, Energy, Power & Vertical Circular Motion",
+                  "type": "lecture",
+                  "duration": "2h 10m"
+                },
+                {
+                  "id": "pra-phy-1-dpp1",
+                  "title": "DPP 01: Advanced Mechanics PYQ Drill",
+                  "type": "dpp",
+                  "duration": "1h 00m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "faculty": "Pankaj Sir & Amit Mahajan Sir",
+          "chapters": [
+            {
+              "id": "pra-chem-1",
+              "title": "Physical Chemistry Fundamentals",
+              "lectures": [
+                {
+                  "id": "pra-chem-1-1",
+                  "title": "Lec 01: Mole Concept, Stoichiometry & Redox Titrations",
+                  "type": "lecture",
+                  "duration": "2h 10m"
+                },
+                {
+                  "id": "pra-chem-1-2",
+                  "title": "Lec 02: Chemical Thermodynamics & Thermochemistry",
+                  "type": "lecture",
+                  "duration": "2h 25m"
+                },
+                {
+                  "id": "pra-chem-1-dpp1",
+                  "title": "DPP 01: Physical Chemistry High-Yield Problems",
+                  "type": "dpp",
+                  "duration": "50m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "faculty": "Sachin Sir",
+          "chapters": [
+            {
+              "id": "pra-math-1",
+              "title": "Algebra Rapid Revision",
+              "lectures": [
+                {
+                  "id": "pra-math-1-1",
+                  "title": "Lec 01: Quadratic Equations & Location of Roots",
+                  "type": "lecture",
+                  "duration": "2h 15m"
+                },
+                {
+                  "id": "pra-math-1-2",
+                  "title": "Lec 02: Complex Numbers Geometry & De Moivre's Theorem",
+                  "type": "lecture",
+                  "duration": "2h 30m"
+                },
+                {
+                  "id": "pra-math-1-dpp1",
+                  "title": "DPP 01: Algebra Advanced Problems",
+                  "type": "dpp",
+                  "duration": "1h 00m"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manzil-jee-2026",
+      "name": "Manzil JEE (One-Shot Revision)",
+      "target": "All JEE Aspirants (High-Yield Marathons)",
+      "description": "Full chapter complete revision in single marathon lectures by top PW faculties.",
+      "subjects": [
+        {
+          "name": "Physics",
+          "faculty": "MR Sir, Rajwant Sir, Saleem Sir",
+          "chapters": [
+            {
+              "id": "man-phy-1",
+              "title": "Complete Mechanics One-Shots",
+              "lectures": [
+                {
+                  "id": "man-phy-1-1",
+                  "title": "Kinematics in 1 Shot (Full Theory + 40 PYQs)",
+                  "type": "lecture",
+                  "duration": "5h 15m"
+                },
+                {
+                  "id": "man-phy-1-2",
+                  "title": "Newton's Laws of Motion & Friction in 1 Shot",
+                  "type": "lecture",
+                  "duration": "5h 45m"
+                },
+                {
+                  "id": "man-phy-1-3",
+                  "title": "Rotational Dynamics in 1 Shot Complete Mastery",
+                  "type": "lecture",
+                  "duration": "6h 30m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "faculty": "Pankaj Sir, Faisal Sir, Amit Mahajan Sir",
+          "chapters": [
+            {
+              "id": "man-chem-1",
+              "title": "Complete Chemistry One-Shots",
+              "lectures": [
+                {
+                  "id": "man-chem-1-1",
+                  "title": "Complete Chemical Bonding in 1 Shot",
+                  "type": "lecture",
+                  "duration": "5h 00m"
+                },
+                {
+                  "id": "man-chem-1-2",
+                  "title": "Complete Organic Chemistry Reaction Mechanisms",
+                  "type": "lecture",
+                  "duration": "7h 20m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "faculty": "Sachin Sir, Ashish Agarwal Sir",
+          "chapters": [
+            {
+              "id": "man-math-1",
+              "title": "Complete Mathematics One-Shots",
+              "lectures": [
+                {
+                  "id": "man-math-1-1",
+                  "title": "Complete Definite Integration & Area Under Curves in 1 Shot",
+                  "type": "lecture",
+                  "duration": "6h 15m"
+                },
+                {
+                  "id": "man-math-1-2",
+                  "title": "Vectors & 3D Geometry Full Chapter Marathon",
+                  "type": "lecture",
+                  "duration": "5h 40m"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
